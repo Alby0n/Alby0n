@@ -3,16 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alby0n&label=Profile%20views&color=0e75b6&style=flat" alt="alby0n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alby0n" alt="alby0n" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/alby_0n" target="blank"><img src="https://img.shields.io/twitter/follow/alby_0n?logo=twitter&style=for-the-badge" alt="alby_0n" /></a> </p>
+
+- 💬 Ask me about **Machine Learning**
+
+- 📫 How to reach me **amenu4aie20104@am.students.amrita.edu**
+
+- ⚡ Fun fact **I think I am funny and very friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alby_0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alby_0n" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aby-stalin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aby-stalin/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aby-stalin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aby-stalin" height="30" width="40" /></a>
 <a href="https://kaggle.com/albyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="albyon" height="30" width="40" /></a>
 <a href="https://instagram.com/alby.on" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alby.on" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/u4aie20104_dsa2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="u4aie20104_dsa2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alby0n&show_icons=true&locale=en&layout=compact" alt="alby0n" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alby0n&show_icons=true&locale=en" alt="alby0n" /></p>
+
